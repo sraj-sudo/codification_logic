@@ -1,0 +1,5 @@
+DATA_START = "<DATA>"
+DATA_END = "</DATA>"
+ROW_START = "<R>"
+ROW_END = "</R>"
+COL_DELIM = "<C>"
